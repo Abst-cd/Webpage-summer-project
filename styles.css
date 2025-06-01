@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(229, 238, 196, 0.685);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    padding: 20px;
+
+}
+.comidaTortuga {
+    height: 200px;
+    width: 500px;
+}
+ul {
+    
+    color: rgb(88, 44, 92);
+}
+
+.curiosidadesTortugas ul li:hover{
+    color:black;
+    font-weight: bold;
+    
+
+}
+.finalParte{
+    text-align: center;
+}
+
