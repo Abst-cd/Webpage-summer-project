@@ -12,6 +12,10 @@ body{
     text-align: center;
     padding: 20px;
 }
+
+ h2{
+    text-decoration: underline;
+}
 .comidaTortuga {
     height: 200px;
     width: 500px;
@@ -20,6 +24,23 @@ body{
 .curiosidadesTortugas ul li:hover{
     color:black;
     font-weight: bold;
+}
+.link1:visited, .link2:visited{
+    color:blue;
+
+}
+.link1:hover, .link2:hover{
+    color:brown;
+}
+.link1:active, .link2:active{
+    color:bisque;
+}
+
+.mcturtle{
+float: right;
+margin-left: 20px;
+width: 100px;
+height: 100px;
 }
 
 .finalParte{
