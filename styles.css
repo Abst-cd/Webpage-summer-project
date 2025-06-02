@@ -1,9 +1,16 @@
 body{
-    background-color: rgba(229, 238, 196, 0.685);
+    background-color: rgba(175, 213, 234, 0.685);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     padding: 20px;
 
+}
+
+.primerTitulo {
+    border: 5px rgba(79, 148, 172, 0.609) solid;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
 }
 .comidaTortuga {
     height: 200px;
@@ -13,9 +20,8 @@ body{
 .curiosidadesTortugas ul li:hover{
     color:black;
     font-weight: bold;
-    
-
 }
+
 .finalParte{
     text-align: center;
 }
