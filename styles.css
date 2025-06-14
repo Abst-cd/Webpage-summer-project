@@ -7,10 +7,12 @@ body{
 }
 
 .primerTitulo {
+    display: inline-block;
     border: 5px rgba(79, 148, 172, 0.609) solid;
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
     padding: 20px;
+    
 }
 
  h2{
